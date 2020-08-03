@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+}
+body {
+    background-color: white;
+    background-size: cover;
+}
+/*Tela Inicial*/
+section#TelaInicial {
+    text-align: center;
+    background: url(ImagensODS/Fundo.jpeg);
+    background-size: cover;
+    color: #fff;
+    line-height: 35px;
+    padding: 100px;
+}
+section#TelaInicial h1 {
+    font-size: 55px;
+    background-color: rgb(0, 0, 0, 0.6);
+
+}
+
+section#TelaInicial h2 {
+    font-size: 30px;
+    background-color: rgb(0, 0, 0, 0.6);
+
+}
+
+section#TelaInicial .a1 {
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none;
+    border: 2px solid #000;
+    background-color: #fff;
+    color: #000;
+    padding: 10px 25px;
+    border-radius: 5px;
+}
+/*Tela Projeto*/
+section#Projeto {
+    padding: 20px;
+    border-bottom: #000 solid 1px;
+    text-align: center;
+}
+section#Projeto p {
+    font-size: 18px;
+    line-height: 20px;
+}
+section#Projeto h2{
+    font-size: 30px;
+}
+
+section#Projeto .H2{
+    font-size: 20px;
+}
+
+/*Tela Metas*/
+section#Metas {
+    padding: 20px;
+    padding-bottom: 30px;
+    border-top: #000 solid 1px;
+}
+section#Metas img{
+    height: 60px;
+}
+section#Metas h2{
+    text-align: center;
+}
+/*Tela Sobre Mim*/
+section#sobre_mim {
+    text-align: center;
+    border-top: #000 solid 2px;
+    padding: 20px 40px;
+}
+section#sobre_mim h4{
+    font-size: 25px;
+}
+section#sobre_mim h5{
+    font-size: 20px;
+}
+section#sobre_mim p{
+    font-size: 20px;
+    line-height: 20px;
+}
+section#sobre_mim img{
+    height: 350px;
+}
